@@ -1,6 +1,11 @@
-```js
-npm install three vite gsap cannon-es @dimforge/rapier3d socket.io-client lil-gui postprocessing three-stdlib howler gl-matrix three-ik
-````
+# Guia Prático de Setup para Projetos 3D Web com Three.js
+
+## Instalação das dependências
+
+```bash
+npm install three vite gsap @dimforge/rapier3d socket.io-client lil-gui postprocessing three-stdlib howler gl-matrix three-ik
+```
+
 | Biblioteca       | Função                       |
 | ---------------- | ---------------------------- |
 | Three.js         | renderização 3D              |
